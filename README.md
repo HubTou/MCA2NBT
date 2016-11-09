@@ -16,8 +16,8 @@ Unlucky users of other operating systems might have to manually download a copy 
 
 Usage
 =====
-# cd world/region
-# mca2nbt *.mca
+$ cd world/region
+$ mca2nbt *.mca
 
 
 Versions and changelog
@@ -46,4 +46,5 @@ Cf. http://www.zlib.net/
 Author
 ======
 Hubert Tournier
+
 5th May 2014
