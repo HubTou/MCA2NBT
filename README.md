@@ -6,6 +6,8 @@ From this point, these NBT files can be processed with other external utilities,
 
 I didn't need to build back an MCA file from these NBT files but this would be easy to do from here (especially as i saved the MCA header for this purpose)...
 
+You might want to check my [Minecraft Region Scanner](https://github.com/HubTou/MinecraftRegionScanner) utility which is **way more** powerful!
+
 
 Installation
 ============
