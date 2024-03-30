@@ -1,3 +1,5 @@
+:warning: Due to [Microsoft inept policy concerning Minecraft accounts](https://help.minecraft.net/hc/en-us/articles/19615552270221) I no longer have access to the game and thus won't maintain this software anymore
+
 About mca2nbt
 =============
 A simple utility to convert a Minecraft .mca region file (in anvil format) to a directory with the same basename containing an uncompressed NBT file for each of its chunks.
